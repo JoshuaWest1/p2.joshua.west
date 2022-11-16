@@ -6,6 +6,9 @@
 GitHub Repository
  https://github.com/JoshuaWest1/p2.joshua.west.git
 
+GitPage
+https://joshuawest1.github.io/p2.joshua.west/
+
 My Video
 https://youtu.be/5VeixFwm3E8
 

@@ -12,8 +12,10 @@ GitHub Repository
 
 # B
 
+![ezgif com-gif-maker (12)](https://user-images.githubusercontent.com/99363239/202065760-e6ac44cc-ac39-437c-93a4-a61dc2331116.gif)
+
 
 
 # A
 
-![ezgif com-gif-maker (10)](https://user-images.githubusercontent.com/99363239/202064361-af164052-5e41-4881-b65c-b98976e947c3.gif)
+![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/99363239/202065083-56a22c2b-12cc-464c-9349-f2304bdeff23.gif)
